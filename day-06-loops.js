@@ -40,4 +40,4 @@ for (const n of angka) {
     hasilGenap.push(n);
   }
 }
-console.log("Angka genap:", hasilGenap);
+console.log("Angka genap:", hasilGenap);c
